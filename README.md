@@ -2,6 +2,6 @@
 100k 이내 파라미터로 이미지 분류하는 챌린지
 
 # public
-![ex_screenshot](./img/public.png)
+![public](./image/public.png)
 # private
-![ex_screenshot](./img/private.png)
+![private](./image/private.png)
